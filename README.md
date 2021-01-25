@@ -1,3 +1,18 @@
+# In Progress...
+
+## Todo
+
+- [x] Docker
+- [x] Basic Graphql
+- [ ] Husky
+- [ ] Separate Handler from resolver
+- [ ] unittest of handler
+- [ ] ErrorHandling
+- [ ] FrontEnd React
+- [ ] Transaction
+- [ ] Migration
+- [ ] Seed
+
 # express graphSQL demo
 
 A simple demo to GraphQL with Express Server & postgres
@@ -5,10 +20,9 @@ A simple demo to GraphQL with Express Server & postgres
 ## Setup
 
 ```
-npm install
+cp .env.example .env
 docker-compose up --build
 ```
-
 
 ## Thanks
 
