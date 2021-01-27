@@ -4,8 +4,9 @@
 
 - [x] Docker
 - [x] Basic Graphql
-- [ ] Husky
+- [x] Husky
 - [ ] Separate Handler from resolver
+- [ ] JWT
 - [ ] unittest of handler
 - [ ] ErrorHandling
 - [ ] FrontEnd React
